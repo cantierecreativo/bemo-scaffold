@@ -1,6 +1,6 @@
 {
   "name": "bemo-scaffold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Installing BEMO skeleton in your project has never been easier.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,9 @@
     "bemo",
     "scaffold"
   ],
+  "bin": {
+    "bemo-scaffold": "./cli.js"
+  },
   "author": "Stefano Verna",
   "license": "ISC",
   "dependencies": {
