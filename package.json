@@ -1,0 +1,24 @@
+{
+  "name": "bemo-scaffold",
+  "version": "1.0.0",
+  "description": "Installing BEMO skeleton in your project has never been easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bemo",
+    "scaffold"
+  ],
+  "author": "Stefano Verna",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "1.1.2",
+    "glob": "7.0.3",
+    "meow": "3.7.0",
+    "node-fs-extra": "0.8.1",
+    "readline-sync": "1.4.1",
+    "simple-git": "1.28.0",
+    "tmp": "0.0.28"
+  }
+}
