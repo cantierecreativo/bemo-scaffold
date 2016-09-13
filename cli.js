@@ -36,8 +36,6 @@ try {
     process.exit(1);
   }
 } catch(e) {
-  console.log(stylesheetsDir + " does not exist!");
-  process.exit(1);
 }
 
 bemoScaffold.generate(args, function(err) {
