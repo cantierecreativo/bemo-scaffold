@@ -1,6 +1,6 @@
 {
   "name": "bemo-scaffold",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Installing BEMO skeleton in your project has never been easier.",
   "main": "index.js",
   "scripts": {
